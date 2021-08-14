@@ -81,6 +81,9 @@ flutter:
    - family: WindSong
      fonts:
        - asset: fonts/windsongmedium.ttf
+   - family: Pacifico
+     fonts:
+        - asset: fonts/Pacifico-Regular.ttf
 
 
   #
